@@ -1,2 +1,3 @@
 # first
-my first repository
+my first repository i am a student
+
